@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/Users/gurleendhaliwal/Desktop/Test/hw-rgbcal-skeleton/target/thumbv7em-none-eabihf/release/build/nrf52833-pac-9354fa8f28bb9642/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

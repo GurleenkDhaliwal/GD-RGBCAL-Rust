@@ -1,0 +1,1 @@
+/Users/gurleendhaliwal/Desktop/Test/GD-RGBCal/target/thumbv7em-none-eabihf/debug/mb2-embassy-rgb: /Users/gurleendhaliwal/Desktop/Test/GD-RGBCal/src/knob.rs /Users/gurleendhaliwal/Desktop/Test/GD-RGBCal/src/main.rs /Users/gurleendhaliwal/Desktop/Test/GD-RGBCal/src/rgb.rs /Users/gurleendhaliwal/Desktop/Test/GD-RGBCal/src/ui.rs

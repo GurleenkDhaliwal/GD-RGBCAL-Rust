@@ -1,0 +1,8 @@
+/Users/gurleendhaliwal/Desktop/Test/hw-rgbcal-skeleton/target/thumbv7em-none-eabihf/debug/deps/libembassy_usb_driver-2115a9758af45965.rmeta: /Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/lib.rs /Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/../README.md
+
+/Users/gurleendhaliwal/Desktop/Test/hw-rgbcal-skeleton/target/thumbv7em-none-eabihf/debug/deps/libembassy_usb_driver-2115a9758af45965.rlib: /Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/lib.rs /Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/../README.md
+
+/Users/gurleendhaliwal/Desktop/Test/hw-rgbcal-skeleton/target/thumbv7em-none-eabihf/debug/deps/embassy_usb_driver-2115a9758af45965.d: /Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/lib.rs /Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/../README.md
+
+/Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/lib.rs:
+/Users/gurleendhaliwal/.cargo/registry/src/index.crates.io-6f17d22bba15001f/embassy-usb-driver-0.1.0/src/../README.md:

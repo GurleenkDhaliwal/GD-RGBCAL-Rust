@@ -1,4 +1,8 @@
 # rgbcal: RGB LED calibration tool
+
+# Submitted by: Gurleen Dhaliwal
+# CS 510 - Embedded Rust
+
 Bart Massey 2024
 
 This tool is designed to find out a decent frame rate and
@@ -61,3 +65,10 @@ will eat CPU for no reason.
 
 I think the frame rate is probably set higher than it needs
 to be right now: it can be tuned lower.
+
+## Methodology
+Initially the main thing I had to do was add the code for the blue and greeen LEDs to the existing REDLED functionality. In my code, it starts with RED LED on, then I worked on a function that initialized the state based on buttons A and B pressed aftre that. Then I added a few helper functions in UI.rs to make the run function process smoothly such as what to when each button or if no button is pressed. The skeleton code was extremely helpful for giving me an idea what to do next, I used its logic to create otehr functions. Then I focused on making the code more readable by adding comments and organizing my code. Adjusting the frame rate involved trying out different rates. I used a setter and getter function in this. I also edited the RGB.rs file to fetch the tick_time for LED updates. Knob.rs did not require in any modifications, I just added comments in it. 
+
+
+## Observations:
+While experimenting with the RGB levels I noticed that by setting the specific RGB values to R at 15, G between 4-6, and B between 6-9 the LED appeared to display different shades of white. There was also a noticeable increase in CPU usage when frame rate was set to higher values. This shows that managing higher frame rates has an impact on systems resources.
